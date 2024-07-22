@@ -9,7 +9,6 @@ message: >-
 type: software
 authors:
   - given-names: Quentin
-    name-particle: Quentin
     family-names: Groom
     email: quentin.groom@plantentuinmeise.be
     affiliation: Meise Botanic Garden
@@ -34,7 +33,7 @@ abstract: >-
   species.
 keywords:
   - ducks
-  - 'sexually dimorphic '
+  - sexually dimorphic
   - data cube
   - Global Biodiversity Information Facility
 license: MIT
