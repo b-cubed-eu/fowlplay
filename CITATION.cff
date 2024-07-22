@@ -1,0 +1,40 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: FowlPlay
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Quentin
+    name-particle: Quentin
+    family-names: Groom
+    email: quentin.groom@plantentuinmeise.be
+    affiliation: Meise Botanic Garden
+    orcid: 'https://orcid.org/0000-0002-0596-5376'
+  - given-names: Maarten
+    family-names: Trekels
+    email: maarten.trekels@plantentuinmeise.be
+    affiliation: Meise Botanic Garden
+    orcid: 'https://orcid.org/0000-0001-8282-8765'
+abstract: >-
+  This investigation uses biodiversity data cubes derived
+  from the datasets mobilised by the [Global Biodiversity
+  Information Facility](https://www.gbif.org/) (GBIF), to
+  conduct an analysis of sex ratios of ducks across Europe.
+  Encompassing over 4 million occurrences extracted from
+  nearly 5000 datasets, this study elucidates sex
+  distribution patterns across various species, focussing on
+  temporal and spatial dynamics. The aim of this study is to
+  highlight the availability of open sex data and its
+  potential usefulness in research and monitoring of sex
+  ratios of wild organisms, particularly in sexual dimorphic
+  species.
+keywords:
+  - ducks
+  - 'sexually dimorphic '
+  - data cube
+  - Global Biodiversity Information Facility
+license: MIT
