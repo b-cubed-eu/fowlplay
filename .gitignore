@@ -163,3 +163,7 @@ cython_debug/
 
 # Mac OS
 .DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.env
+.venv
