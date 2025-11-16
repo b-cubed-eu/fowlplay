@@ -1,0 +1,57 @@
+specieskey,recordcount,female_count,male_count,proportion,latin_name,vernacular_name
+2498125,13636,3,8652,0.6347169257846876,"Anas carolinensis J.F.Gmelin, 1789",Green-winged Teal
+2498329,10961,903,5084,0.5462092874737706,"Bucephala albeola (Linnaeus, 1758)",Bufflehead
+2498350,39090,4742,16101,0.5332054233819391,"Somateria spectabilis (Linnaeus, 1758)",King Eider
+2498246,12426,572,5720,0.5063576372122968,"Melanitta perspicillata (Linnaeus, 1758)",Surf Scoter
+2498155,13468,90,6241,0.4700772200772201,"Mareca americana (J.F.Gmelin, 1789)",American Wigeon
+5232431,13794,2476,3328,0.4207626504277222,"Polysticta stelleri (Pallas, 1769)",Steller's Eider
+2498264,27427,1221,9588,0.3941007036861487,"Aythya collaris (Donovan, 1809)",Ring-necked Duck
+2498257,13432,434,4735,0.38482727814175105,"Aythya affinis (Eyton, 1838)",Lesser Scaup
+2498285,408048,92237,59630,0.37217925342116615,"Mergellus albellus (Linnaeus, 1758)",Smew
+2498387,17465,1189,3965,0.2951044947036931,"Aix sponsa (Linnaeus, 1758)",Wood Duck
+9274012,458135,15132,98458,0.24794001768037804,"Spatula querquedula (Linnaeus, 1758)",Garganey
+2498265,211422,26053,18877,0.21251336190178885,"Aythya marila (Linnaeus, 1761)",Greater Scaup
+9537647,1243150,121270,138497,0.20895869364115352,"Mergus merganser Linnaeus, 1758",Common Merganser
+2498388,159579,7485,25783,0.20847354601795975,"Aix galericulata (Linnaeus, 1758)",Mandarin Duck
+2498352,1334760,153439,96615,0.18734004615061883,"Somateria mollissima (Linnaeus, 1758)",Common Eider
+2498259,89831,3971,11062,0.16734757489062796,"Aythya nyroca (Güldenstädt, 1770)",Ferruginous Duck
+2498326,1720955,130849,137828,0.1561208747468702,"Bucephala clangula (Linnaeus, 1758)",Common Goldeneye
+2498375,1027371,62695,70668,0.12980997127619914,"Mergus serrator Linnaeus, 1758",Red-breasted Merganser
+2498273,371647,20524,27696,0.12974677583836275,"Clangula hyemalis (Linnaeus, 1758)",Long-tailed Duck / Oldsquaw
+2498112,731274,33421,60074,0.12785221408117886,"Anas acuta Linnaeus, 1758",Northern Pintail
+2498180,354634,10737,33516,0.1247849895949063,"Netta rufina (Pallas, 1773)",Red-crested Pochard
+2498305,48952,1850,3997,0.11944353652557607,"Oxyura jamaicensis (J.F.Gmelin, 1789)",Ruddy Duck
+2498255,1385627,37688,95365,0.09602367736771873,"Aythya ferina (Linnaeus, 1758)",Common Pochard
+2498238,360574,15170,18914,0.09452705963269675,"Melanitta fusca (Linnaeus, 1758)",White-winged Scoter
+2498247,582032,32878,21438,0.09332132941144129,"Melanitta nigra (Linnaeus, 1758)",Common Scoter
+8332393,1706907,41578,109488,0.08850277138707616,"Spatula clypeata (Linnaeus, 1758)",Northern Shoveler
+2498261,2863444,85863,119414,0.07168884741590896,"Aythya fuligula (Linnaeus, 1758)",Tufted Duck
+2498302,44910,1526,1411,0.06539746158984636,"Oxyura leucocephala (Scopoli, 1769)",White-headed Duck
+8214667,2492203,56487,93250,0.06008218431644613,"Anas crecca Linnaeus, 1758",Eurasian Teal
+9761484,7320345,157863,266898,0.05802472424455405,"Anas platyrhynchos Linnaeus, 1758",Mallard
+9362027,2178329,34305,83163,0.053925738490374964,"Mareca strepera (Linnaeus, 1758)",Gadwall
+8000602,1774338,30332,62694,0.052428567724976866,"Mareca penelope (Linnaeus, 1758)",Eurasian Wigeon
+2498224,15337,248,388,0.041468344526308924,"Histrionicus histrionicus (Linnaeus, 1758)",Harlequin Duck
+2498015,185486,2903,1968,0.026260742050612983,"Tadorna ferruginea (Pallas, 1764)",Ruddy Shelduck
+5232464,1023688,8995,8729,0.017313869069482107,"Branta leucopsis (Bechstein, 1803)",Barnacle Goose
+9751099,58591,380,541,0.015719137751531807,"Cairina moschata (Linnaeus, 1758)",Muscovy Duck
+2498009,2041664,9440,18254,0.013564425880066455,"Tadorna tadorna (Linnaeus, 1758)",Common Shelduck
+2498027,78609,472,517,0.012581256599117149,"Anser fabalis (Latham, 1787)",Taiga Bean-Goose
+2498034,17719,72,140,0.011964557819290027,"Anser cygnoides (Linnaeus, 1758)",Swan Goose
+2498017,591910,2965,3156,0.010341099153587538,"Anser albifrons (Scopoli, 1769)",Greater White-fronted Goose
+2498252,1315699,4445,5324,0.007424950539599103,"Alopochen aegyptiaca (Linnaeus, 1766)",Egyptian Goose
+2498338,174141,563,544,0.0063569176701638325,"Cygnus columbianus (Ord, 1815)",Tundra Swan
+2498343,3778702,8939,11731,0.005470132336447807,"Cygnus olor (J.F.Gmelin, 1789)",Mute Swan
+2498026,39437,76,126,0.005122093465527297,"Anser erythropus (Linnaeus, 1758)",Lesser White-fronted Goose
+5232451,56499,23,228,0.004442556505424875,"Branta ruficollis (Pallas, 1769)",Red-breasted Goose
+2498344,90408,157,214,0.004103619148747899,"Cygnus atratus (Latham, 1790)",Black Swan
+2498390,26096,54,51,0.004023605150214592,"Marmaronetta angustirostris (Ménétries, 1832)",Marbled Duck
+7340170,102866,128,192,0.00311084323294383,"Anser serrirostris Gould, 1852",Tundra Bean-Goose
+5232437,1875785,2670,2639,0.0028302817220523676,"Branta canadensis (Linnaeus, 1758)",Canada Goose
+2498035,71926,55,120,0.0024330561966465535,"Anser indicus (Latham, 1790)",Bar-headed Goose
+2498347,1027239,1245,1242,0.0024210529389947226,"Cygnus cygnus (Linnaeus, 1758)",Whooper Swan
+2498167,25871,16,37,0.0020486258745313285,"Anser caerulescens (Linnaeus, 1758)",Snow/Ross's Goose
+10124612,14164,8,20,0.001976842699802316,Anser anser x Branta canadensis,Graylag x Canada Goose (hybrid)
+2498036,3460752,3125,3384,0.001880805096695747,"Anser anser (Linnaeus, 1758)",Graylag Goose
+5232446,519070,378,447,0.0015893810083418421,"Branta bernicla (Linnaeus, 1758)",Brant / Brant Goose
+2498024,334309,93,114,0.0006191876377842056,"Anser brachyrhynchus Baillon, 1834",Pink-footed Goose
